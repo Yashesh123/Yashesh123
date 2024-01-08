@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Yashesh
+🖥️ I am a full stack developer<br/>
+💼 Currently working with Infosys<br/>
+⚡ More about me [here](https://www.linkedin.com/in/yashesh-chauhan-7516b2130/)
+
 
 <!--
 **Yashesh123/Yashesh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
