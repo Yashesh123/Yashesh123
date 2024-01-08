@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yashesh
 🖥️ I am a full stack developer<br/>
 💼 Currently working with Infosys<br/>
-⚡ More about me [here](https://www.linkedin.com/in/yashesh-chauhan-7516b2130/)
+⚡ More about me [here](https://www.linkedin.com/in/yashesh-chauhan/)
 
 
 <!--
